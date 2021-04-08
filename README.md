@@ -1,32 +1,6 @@
-# Test for frontend development.
-**Fork me and Feel free to apply!**
-Use this repository to make a responsive grid. 
-Grid have to be different in desktop and mobile devices.</p>
+# TestFrontend
 
-## Grid elements
-Grid can be so simple or fancy as you like. You can use plain text or angular typescript for adding a content. 
-Grid have to contain elements:
-
-- Title
-- Image
-- content
-- button
-
-## Use Bootstrap
-
-- Add `bootstrap` with yarn or npm
-- Use `row col` or `d-flex` for making a grid
-- Style language: `scss`
-- Add bootstrap plugin to project (in angular.json file)
-- Import bootstrap scss files from node_modules
-
-## Result
-- Publish your result to "your_name" branch
-
-
-# AngularLogicsparkTest
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
 ## Development server
 
@@ -50,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
